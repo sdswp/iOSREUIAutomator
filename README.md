@@ -1,9 +1,12 @@
 # iOSREUIAutomator
 基于越狱环境的iOS App UI测试框架，测试从Appstore下载的应用，无需反编译、hook。
 ##iOSREUIAutomatorDemo.deb
-安装前请先安装substrate，rocketbootstrap。
+安装前请先安装substrate，rocketbootstrap
+
+按音量+开始，音量—停止
 
 demo测试循环用例：杀死appstore-->等待5秒-->打开appstore->检测首页显示时间-->检测搜索结果显示时间
+
 ##使用
 24循环测试，可以直接测试从AppStore下载的应用，无需反编译、hook应用，直接编写测试用例测试。
 ##运行环境
