@@ -3,7 +3,7 @@
 ##iOSREUIAutomatorDemo.deb
 安装前请先安装substrate，rocketbootstrap
 
-按音量+开始，音量—停止
+按音量+开始，音量-停止
 
 demo测试循环用例：杀死appstore-->等待5秒-->打开appstore->检测首页显示时间-->检测搜索结果显示时间
 
