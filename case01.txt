@@ -1,0 +1,5 @@
+kill neteasemusic;
+wait 3.5;
+open com.netease.cloudmusic;
+check indexcheck01.png 0 640 640 200 首页检测;
+

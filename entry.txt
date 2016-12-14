@@ -1,0 +1,4 @@
+case case01.txt 测试应用启动时间;
+case case02.txt 歌单检测;
+case case03.txt 主播电台;
+case case04.txt 排行榜;

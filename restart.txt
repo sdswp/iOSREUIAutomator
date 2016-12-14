@@ -1,0 +1,6 @@
+kill neteasemusic;
+wait 3.5;
+open com.netease.cloudmusic;
+wait 10;
+ 
+ 

@@ -1,0 +1,11 @@
+tap 563 1086;
+wait 1;
+tap 320 322;
+wait 1;
+tap 320 520;
+wait 1;
+input 123456 320 290;
+input 15626 320 204;
+wait 0.5;
+tap 320 404;
+check indexcheck04.png 0 0 640 200 登录验证;

@@ -1,0 +1,2 @@
+tap 240 170;
+check indexcheck02.png 0 200 640 200 歌单检测;
